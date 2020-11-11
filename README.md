@@ -9,7 +9,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Table of Contents
 
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
-  - [C](#c-1)
+  - [C](#c)
   - [CSS](#css)
   - [Django](#django)
   - [Docker](#docker)
